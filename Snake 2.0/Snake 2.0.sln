@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Snake 2.0", "Snake 2.0.pyproj", "{AD86E70D-5B91-4E59-B7FF-D0D55D7CA018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD86E70D-5B91-4E59-B7FF-D0D55D7CA018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD86E70D-5B91-4E59-B7FF-D0D55D7CA018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6774DDCA-3755-4E50-9C6F-1D0A726EF4FF}
+	EndGlobalSection
+EndGlobal
